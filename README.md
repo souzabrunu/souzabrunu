@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Bruno Souza!
 
-<!--
-**souzabrunu/souzabrunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💇‍♂️ Profissional cabeleireiro com 12 anos de experiência e agora em **transição de carreira para tecnologia**.  
+🎓 Estudante de **Engenharia da Computação** (2º período – IBMR Barra) e desenvolvedor iniciante em **Python**.  
+📍 Rio de Janeiro, Brasil | 🇵🇹 Cidadania portuguesa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou aprendendo
+- Python 3 (Curso em Vídeo + projetos práticos)
+- Git & GitHub
+- Modelagem e Simulação de Sistemas Elétricos e Magnéticos (faculdade)
+
+---
+
+## 🐍 Projetos em Python
+Alguns dos meus mini projetos publicados aqui no GitHub:
+
+- [Calculadora de Descontos](https://github.com/souzabrunu/estudos-python)  
+- [Sorteio de Apresentação](https://github.com/souzabrunu/estudos-python)  
+- (mais projetos em andamento 🚧)
+
+---
+
+## 🎓 Certificados
+- [Python 3 - Mundo 1 (40h) - Curso em Vídeo](https://www.cursoemvideo.com/validar-certificado/)  
+  Código de verificação: **12604B-66E2-9**  
+  ![Certificado Python 3](link-da-imagem-ou-arquivo-no-repo)
+
+---
+
+## 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/bruno-souza-9250a4356/)  
+- [Instagram Profissional](https://www.instagram.com/souzabrunu)
+
+---
+
+⭐ Aqui compartilho minha jornada na programação e novos aprendizados em tecnologia.
+
