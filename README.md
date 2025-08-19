@@ -25,7 +25,7 @@ Alguns dos meus mini projetos publicados aqui no GitHub:
 ## 🎓 Certificados
 - [Python 3 - Mundo 1 (40h) - Curso em Vídeo](https://www.cursoemvideo.com/validar-certificado/)  
   Código de verificação: **12604B-66E2-9**  
-  ![Certificado Python 3](link-da-imagem-ou-arquivo-no-repo)
+  ![Certificado Python 3](https://github.com/souzabrunu/souzabrunu/blob/main/IMG_4367.jpg)
 
 ---
 
