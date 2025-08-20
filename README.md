@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Souza!
+# 👋 Olá, sou o Bruno Souza!
 
 💇‍♂️ Profissional cabeleireiro com 12 anos de experiência e agora em **transição de carreira para tecnologia**.  
 🎓 Estudante de **Engenharia da Computação** (2º período – IBMR Barra) e desenvolvedor iniciante em **Python**.  
