@@ -4,6 +4,12 @@
 🎓 Estudante de **Engenharia da Computação** (2º período – IBMR Barra) e desenvolvedor iniciante em **Python**.  
 📍 Rio de Janeiro, Brasil | 🇵🇹 Cidadania portuguesa  
 
+## 🐍 Projetos em destaque
+
+- [Calculadora de Descontos (CLI)](https://github.com/souzabrunu/Calculadora_Desconto) — calcula preço final e economia a partir de um desconto (%).
+- [Gerenciador de Clientes (CLI)](https://github.com/souzabrunu/Gerenciador-Clientes) — cadastrar, listar, buscar, atualizar e remover clientes (ex.: salão).
+- [Estudos em Python](https://github.com/souzabrunu/estudos-python) — exercícios e scripts do Curso em Vídeo + testes pessoais.
+
 ---
 
 ## 🚀 O que estou aprendendo
