@@ -15,7 +15,6 @@
 ## 🚀 O que estou aprendendo
 - Python 3 (Curso em Vídeo + projetos práticos)
 - Git & GitHub
-- Modelagem e Simulação de Sistemas Elétricos e Magnéticos (faculdade)
 
 ---
 
