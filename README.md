@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Bruno Souza!
 
 💇‍♂️ Profissional cabeleireiro com 12 anos de experiência e agora em **transição de carreira para tecnologia**.  
-🎓 Estudante de **Engenharia da Computação** (2º período – IBMR Barra) e desenvolvedor iniciante em **Python**.  
+🎓 Estudante de **Engenharia da Computação** (3º período – IBMR Barra) e desenvolvedor iniciante em **Python**.  
 📍 Rio de Janeiro, Brasil | 🇵🇹 Cidadania portuguesa  
 
 ## 🐍 Projetos em destaque
@@ -15,7 +15,7 @@
 ## 🚀 O que estou aprendendo
 - Python 3 (Curso em Vídeo + projetos práticos)
 - Git & GitHub
-
+- AWS
 ---
 
 ## 🐍 Projetos em Python
