@@ -45,7 +45,7 @@ Bootcamp realizado pela Digital Innovation One (DIO) em parceria com o Santander
 📁 Certificados organizados neste repositório:  
 👉 https://github.com/souzabrunu/certificados-tech
 
-![Certificado Santander DIO](https://github.com/souzabrunu/certificados-tech/blob/main/dio/certificado-santander-dio.png?raw=true)
+![Certificado Santander DIO](https://raw.githubusercontent.com/souzabrunu/certificados-tech/main/dio/certificado-santander-dio.png)
 
 ---
 
