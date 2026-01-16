@@ -27,13 +27,6 @@ Alguns dos meus mini projetos publicados aqui no GitHub:
 
 ---
 
-## 🎓 Certificados
-- [Python 3 - Mundo 1 (40h) - Curso em Vídeo](https://www.cursoemvideo.com/validar-certificado/)  
-  Código de verificação: **12604B-66E2-9**  
-  ![Certificado Python 3](https://github.com/souzabrunu/souzabrunu/blob/main/IMG_4367.jpg)
-
----
-
 ## 📫 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/bruno-souza-9250a4356/)  
 - [Instagram Profissional](https://www.instagram.com/souzabrunu)
