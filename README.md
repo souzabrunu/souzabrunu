@@ -41,6 +41,8 @@ Alguns dos meus mini projetos publicados aqui no GitHub:
 
 ### Santander Bootcamp — DIO
 Bootcamp realizado pela Digital Innovation One (DIO) em parceria com o Santander, com foco em fundamentos de tecnologia, programação, Git/GitHub, banco de dados e cloud computing.
+![Certificado Santander DIO](https://raw.githubusercontent.com/souzabrunu/certificados-tech/main/dio/certificado-santander-dio.png)
+
 
 📁 Certificados organizados neste repositório:  
 👉 https://github.com/souzabrunu/certificados-tech
