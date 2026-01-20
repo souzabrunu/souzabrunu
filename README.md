@@ -2,7 +2,7 @@
 
 💇‍♂️ Profissional cabeleireiro com 12 anos de experiência e atualmente em transição de carreira para tecnologia.  
 🎓 Estudante de Engenharia da Computação (3º período – IBMR Barra) e desenvolvedor iniciante em Python.  
-📍 Rio de Janeiro, Brasil | 🇵🇹 Cidadania portuguesa  
+📍 Rio de Janeiro| Cidadão Brasileiro e Português.
 
 ---
 
