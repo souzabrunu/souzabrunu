@@ -8,10 +8,16 @@
 
 ## 🛠️ Tecnologias
 
+## 🛠️ Tecnologias
+
 * Python
 * Git & GitHub
-* Lógica de Programação
+* VS Code
+* Cursor (ambiente com suporte a IA)
+* Ferramentas de IA aplicadas ao desenvolvimento (ex: Claude)
 * Terminal (macOS)
+* Utilizo IA como apoio para aprendizado e produtividade
+
 
 ---
 
