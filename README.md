@@ -1,59 +1,40 @@
-👋 Olá, sou o Bruno Souza!
+# 👋 Olá, eu sou o Bruno
 
-💇‍♂️ Profissional cabeleireiro com 12 anos de experiência e atualmente em transição de carreira para tecnologia.  
-🎓 Estudante de Engenharia da Computação (3º período – IBMR Barra) e desenvolvedor iniciante em Python.  
-📍 Rio de Janeiro| Cidadão Brasileiro e Português.
-
----
-
-## 🐍 Projetos em destaque
-
-- **[Calculadora de Descontos (CLI)](https://github.com/souzabrunu/calculadora-de-descontos)**  
-  Calcula o preço final e a economia gerada a partir de um desconto (%).
-
-- **[Gerenciador de Clientes (CLI)](https://github.com/souzabrunu/gerenciador-de-clientes)**  
-  Sistema em linha de comando para cadastrar, listar, buscar, atualizar e remover clientes (ex.: salão).
-
-- **[Dashboard em Python](https://github.com/souzabrunu/dashboard-python)**  
-  Dashboard desenvolvido em Python para visualização e análise de dados.
+🎓 Estudante de Engenharia da Computação
+💻 Focado em desenvolvimento com Python
+🚀 Em transição de carreira e construindo projetos práticos
 
 ---
 
-## 🚀 O que estou aprendendo
+## 🛠️ Tecnologias
 
-- Python 3 (Curso em Vídeo + projetos práticos)  
-- Git & GitHub  
-- AWS  
-
----
-
-## 🐍 Projetos em Python
-
-Alguns dos meus mini projetos publicados aqui no GitHub:
-
-- [Calculadora de Descontos](https://github.com/souzabrunu/calculadora-de-descontos)  
-- [Sorteio de Apresentação](https://github.com/souzabrunu/sorteio-apresentacao)  
-- *(mais projetos em andamento 🚧)*  
+* Python
+* Git & GitHub
+* Lógica de Programação
+* Terminal (macOS)
 
 ---
 
-## 🎓 Certificados
+## 📂 Projetos em destaque
 
-### Santander Bootcamp — DIO
-Bootcamp realizado pela Digital Innovation One (DIO) em parceria com o Santander, com foco em fundamentos de tecnologia, programação, Git/GitHub, banco de dados e cloud computing.
-![Certificado Santander DIO](https://raw.githubusercontent.com/souzabrunu/certificados-tech/main/dio/certificado-dio.png)
+🔹 [Calculadora de Descontos (CLI)](https://github.com/souzabrunu/Calculadora_Desconto)
+Aplicação interativa em Python para cálculo de preços com desconto, utilizando estruturas condicionais, loops e organização em funções.
 
-
-📁 Certificados organizados neste repositório:  
-👉 https://github.com/souzabrunu/certificados-tech
+🔹 [Gerenciador de Clientes (CLI)](https://github.com/souzabrunu/Gerenciador-Clientes)
+Sistema CRUD em linha de comando para manipulação de dados, com foco em lógica e organização de código.
 
 ---
 
-## 📫 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/bruno-souza-9250a4356/)  
-- [Instagram Profissional](https://www.instagram.com/souzabrunu)
+## 📈 Em evolução
+
+Atualmente aprofundando conhecimentos em:
+
+* Python
+* Estruturas de dados
+* Desenvolvimento de software
 
 ---
 
-⭐ Aqui compartilho minha jornada na programação e novos aprendizados em tecnologia.
+## 📫 Contato
 
+* LinkedIn: https://linkedin.com/in/bruno-souza-9250a4356
