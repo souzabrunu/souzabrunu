@@ -21,7 +21,7 @@
 
 ## 📂 Projetos em destaque
 
-🔹 [Site Pessoal](https://github.com/souzabrunu/site_pessoal)
+🔹 [Site Pessoal](https://sitepessoal-sandy.vercel.app/)
 Projeto desenvolvido para apresentar minha trajetória, projetos e evolução na área de tecnologia, com foco em desenvolvimento backend e construção prática de software.
 
 🔹 [Calculadora de Descontos (CLI)](https://github.com/souzabrunu/Calculadora_Desconto)
