@@ -8,13 +8,11 @@
 
 ## 🛠️ Tecnologias
 
-## 🛠️ Tecnologias
-
 * Python
 * Git & GitHub
 * VS Code
+* Claude / IA Generativa aplicada ao desenvolvimento
 * Cursor (ambiente com suporte a IA)
-* Ferramentas de IA aplicadas ao desenvolvimento (ex: Claude)
 * Terminal (macOS)
 * Utilizo IA como apoio para aprendizado e produtividade
 
@@ -22,6 +20,9 @@
 ---
 
 ## 📂 Projetos em destaque
+
+🔹 [Site Pessoal](https://github.com/souzabrunu/site_pessoal)
+Projeto desenvolvido para apresentar minha trajetória, projetos e evolução na área de tecnologia, com foco em desenvolvimento backend e construção prática de software.
 
 🔹 [Calculadora de Descontos (CLI)](https://github.com/souzabrunu/Calculadora_Desconto)
 Aplicação interativa em Python para cálculo de preços com desconto, utilizando estruturas condicionais, loops e organização em funções.
@@ -38,7 +39,10 @@ Atualmente aprofundando conhecimentos em:
 * Python
 * Estruturas de dados
 * Desenvolvimento de software
-
+* Banco de dados
+* APIs REST
+* Engenharia de Software
+* Estrutura de dados e algoritmos
 ---
 
 ## 📫 Contato
